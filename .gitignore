@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.idea/
+*.sh
+*.csv
+*.json
