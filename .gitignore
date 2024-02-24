@@ -12,3 +12,5 @@ venv.bak/
 *.sh
 *.csv
 *.json
+
+__pycache__
